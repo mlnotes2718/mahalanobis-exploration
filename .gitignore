@@ -4,3 +4,4 @@ solutions/
 .vscode/
 backup.ipynb
 .venv
+.devcontainer
