@@ -1,0 +1,6 @@
+solutions/
+.DS_Store
+.ipynb_checkpoints/
+.vscode/
+backup.ipynb
+.venv
