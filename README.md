@@ -74,7 +74,7 @@ X = np.array([
 # All platforms → distance 5.13 and 5.14 → both outliers correctly detected ✅
 ```
 
-## Reference: Original Code to Compute the Mahalanobis Distance  
+## Reference: Original Code to Compute the Mahalanobis Distance
 
 ```python
 # Outlier detection using Mahalanobis distance
